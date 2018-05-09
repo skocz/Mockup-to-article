@@ -8,3 +8,11 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 Your response goes here!
 
+* What new skills have you learned?
+	HTML Syntax and Elements
+* What has been easy?
+	Everything is pretty clear at this stage 
+* What has been difficult?
+	Nothing really. 
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+	I used online resources such as MDN website: https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
